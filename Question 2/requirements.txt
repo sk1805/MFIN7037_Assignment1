@@ -1,0 +1,12 @@
+numpy
+pandas
+# Engine to allow pandas.read_excel to open old .xls files like histretSP.xls
+xlrd==1.2.0
+# Q2: Smart Beta ETFs (SPMO, Ken French data, regressions)
+yfinance
+requests
+statsmodels
+scipy
+matplotlib
+reportlab
+
